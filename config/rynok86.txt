@@ -1,0 +1,38 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.google.com	TRUE	/	FALSE	1642578905	APISID	5Wu5zlWgd1pqXjcL/A1In8xGfEypwjvUZE
+.google.com	TRUE	/	FALSE	1642578905	HSID	AwF2iV1KGqu2cxUrD
+.google.com	TRUE	/	FALSE	1587924725	NID	190=Xlan6BJKjRkvfBehYoWqyFw_sov5wv4FU6gGP2HLk5OdBlPLHIwohof94UZYnTz7-6aume7PMJFzcFjsmoD8FSosGj2OIvOOEKF9XuSrQzqnacYbQTj1IOGvLL1wSHkDFiDm7qnlJHJSunz9szMmvNygx8kh4WASBKecOZNZD7k
+.google.com	TRUE	/	TRUE	1642578905	SAPISID	lgeApQlBcbcv3mWo/ATVvc-rCLUa6OF_az
+.google.com	TRUE	/	FALSE	1645170905	SID	twdQc3CJaLNeDCWZvFdJei_2ptiAEMThThV8H8WtHWU1kIdC9hF6Uoe32-Ff7Q0gGoizmw.
+.google.com	TRUE	/	FALSE	1615153488	SIDCC	AJi4QfEPjzfjCXk56XCTRGvTqE9wDSvwnkVr-oh3GtQI6QElSGUBshDWcFoc44eCniDf1E6osgg
+.google.com	TRUE	/	TRUE	1642578905	SSID	ACL48ywjzno7msOwh
+.google.com	TRUE	/	TRUE	1642578905	__Secure-3PAPISID	lgeApQlBcbcv3mWo/ATVvc-rCLUa6OF_az
+.google.com	TRUE	/	TRUE	1645170905	__Secure-3PSID	twdQc3CJaLNeDCWZvFdJei_2ptiAEMThThV8H8WtHWU1kIdChZVqDtPqmaY-uK4ONKedHA.
+.google.com	TRUE	/	TRUE	1596268799	__Secure-APISID	5Wu5zlWgd1pqXjcL/A1In8xGfEypwjvUZE
+.google.com	TRUE	/	TRUE	1596268799	__Secure-HSID	AwF2iV1KGqu2cxUrD
+.google.com	TRUE	/	TRUE	1596268799	__Secure-SSID	ACL48ywjzno7msOwh
+.youtube.com	TRUE	/	FALSE	1642578906	APISID	5Wu5zlWgd1pqXjcL/A1In8xGfEypwjvUZE
+.youtube.com	TRUE	/	FALSE	1642578906	HSID	AUaP8Pko78jG2R8tw
+.youtube.com	TRUE	/	TRUE	1643438105	LOGIN_INFO	AFmmF2swRQIhAPCb769Y8zWcQveidRa4ns2Toe0I46s6eCssfhU6IL2nAiAeFc2iapclsangz7e4S4YgZAZMo5gv6MB-q0q6luMrWw:QUQ3MjNmenE1cGNOWmRXREZLTF9PUFYtUVhWbkYyd3EyM0E2U2hLZkJlUzAzOF9wZ2lMRmYxYW9rNi1qd04yOGd0cjRFWEc5UnRVLVp6d3FSYkpCaDdPcy1VdHJMVm5ic0lxX0s4dXFQbTNtR0RycEF1czN6ZGRHbDNScy1sS2pRbHEtSVFUQWVtczU1dGxjcFgwZVNsXzByXzVyNHpIWUVHTHdJMU9vR0R0TDdBN0VaQ0JKNnZ3
+.youtube.com	TRUE	/	FALSE	1588801486	PREF	f1=50000000&hl=en
+.youtube.com	TRUE	/	TRUE	1642578906	SAPISID	lgeApQlBcbcv3mWo/ATVvc-rCLUa6OF_az
+.youtube.com	TRUE	/	FALSE	1642578906	SID	swdQc3Z7iA5fAbgxhuj2qoAjORJPnq8JBKslmk4jPHAF3hcarm2TXtFnmGmWlFXy9NWvAA.
+.youtube.com	TRUE	/	FALSE	1615153581	SIDCC	AJi4QfHWGtlAqXPZW4NQziOcNI2wFFeOLmVrfj1KOaEx_9Yez3qHw_fWNsZyfv7M_MHWud0rh3RL
+.youtube.com	TRUE	/	TRUE	1642578906	SSID	AJKsmM13Bt47SbZ7_
+.youtube.com	TRUE	/	TRUE	1599169471	VISITOR_INFO1_LIVE	JCTa2GwxYxA
+.youtube.com	TRUE	/	FALSE	0	YSC	7PmSCeP4NWk
+.youtube.com	TRUE	/	TRUE	1642578906	__Secure-3PAPISID	lgeApQlBcbcv3mWo/ATVvc-rCLUa6OF_az
+.youtube.com	TRUE	/	TRUE	1642578906	__Secure-3PSID	swdQc3Z7iA5fAbgxhuj2qoAjORJPnq8JBKslmk4jPHAF3hcahUN6tPN8PpNNqiBSVUtfEw.
+.youtube.com	TRUE	/	TRUE	1596268799	__Secure-APISID	5Wu5zlWgd1pqXjcL/A1In8xGfEypwjvUZE
+.youtube.com	TRUE	/	TRUE	1596268799	__Secure-HSID	AUaP8Pko78jG2R8tw
+.youtube.com	TRUE	/	TRUE	1596268799	__Secure-SSID	AJKsmM13Bt47SbZ7_
+.youtube.com	TRUE	/	FALSE	0	s_gl	1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==
+accounts.google.com	FALSE	/	TRUE	1619374099	ACCOUNT_CHOOSER	AFx_qI4zqIjRER6B1GvCKVl5wfDwCNKjv8FiZp-iqPevEnOGTAsoGjYxWzMY5uQlz-GBZqxF92nyxhFBHO68bjEi7w9H1HruH3O7QVBy4Daip1NTvGBUs59Qae7CwdXkjzYLIcvxAeVz
+accounts.google.com	FALSE	/	TRUE	1646689488	GAPS	1:iOZ8u7dry_m2l10Pc2vNga23Ucpjc6PjCBr0oMX0uHejYszL0rG6hygqhp_WGclgXT4FjIbINAHbM50KVNbb4iqTBsC3ng:GYMX2cSjv6tV6NQW
+accounts.google.com	FALSE	/	TRUE	1645170905	LSID	o.myaccount.google.com|s.youtube:uAdQc3Afg-9ve8yvpG7YP_aHnRLj6Ye59Ly4MB7-vCLzoIp2YZT_EXLKJ-z6cxwMpG12yQ.
+accounts.google.com	FALSE	/	TRUE	1645170905	__Host-3PLSID	o.myaccount.google.com|s.youtube:uAdQc3Afg-9ve8yvpG7YP_aHnRLj6Ye59Ly4MB7-vCLzoIp2IJ1l-YMam_oJi4ggGhV5_g.
+myaccount.google.com	FALSE	/	TRUE	1645099504	OSID	twdQc1AQypxXEv2yoOzjDjU-GzG9tIQuqx56jV2sjBGsATaZqUE3nkXh-4PopaI86m1ZCQ.
+myaccount.google.com	FALSE	/	TRUE	1645099504	__Secure-OSID	twdQc1AQypxXEv2yoOzjDjU-GzG9tIQuqx56jV2sjBGsATaZfpptD0iLB2i-exlKuCJl1g.

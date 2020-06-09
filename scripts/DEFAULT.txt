@@ -1,0 +1,21 @@
+#!/bin/sh
+SHELL=/bin/sh
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+localname=`hostname`
+unraid="/mnt/unraid"
+working="$unraid/Cronjobs/media"
+media="$unraid/Media"
+downloads="$unraid/Downloads"
+
+now=$(date +"%Y-%m-%d")
+day=$(date +"%d")
+month=$(date +"%Y-%m")
+year=$(date +"%Y")
+logs="$working/logs"
+mkdir -p $logs
+
+exec 1>> $logs/sys-$month.log
+exec 2>> $logs/sys-$month.log
+
+config="$working/config/$localname-NAME.cfg"
+echo "$(date) $localname ACTIVITY"

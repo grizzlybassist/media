@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.google.com	TRUE	/	FALSE	1624636697	APISID	JybqvDT6MDA19VOD/ACSjP_X4Pe_FZ9kiP
+.google.com	TRUE	/	FALSE	1624636697	HSID	A3zGPGCkwNqu9obt7
+.google.com	TRUE	/	TRUE	1624636697	SAPISID	Ap-xP_jHndo9a8rT/Afyj3ePCzjmPoANKF
+.google.com	TRUE	/	FALSE	1624636697	SID	jQceXrEdgyw-mwJUSvlsjp1WyXpGOUYmVYddFOKnwcW5Au6yJJgDriWvp4zy_AyKU2aLjQ.
+.google.com	TRUE	/	TRUE	1624636697	SSID	Am6dGNDGy_u5XBsQp
+.youtube.com	TRUE	/	FALSE	1581383164	GPS	1
+.youtube.com	TRUE	/	FALSE	1582602672	PREF	f6=80&f1=50000000&hl=en
+.youtube.com	TRUE	/	TRUE	1596895206	VISITOR_INFO1_LIVE	0e6v-mJ0lP4
+.youtube.com	TRUE	/	FALSE	0	YSC	ioqLfUXk3TQ
+.youtube.com	TRUE	/	FALSE	0	s_gl	1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==
+accounts.google.com	FALSE	/	TRUE	1603907105	ACCOUNT_CHOOSER	AFx_qI4PbLdaA80j2_SyiJNq4_lPgf1RnJ0Uu1QjlHtqhkiv4F203ZNx9YtjoXfX9QmmW1fj7159msYovRhNgA5IohUBegqLMzGmcrAubMNd5DDyWtzizgvs64BhUvUiOJVc9COd7T3VhBydewi5FZB-0ZapiCAd9FEaKGo9r73UZxQ19IyJF8VatWBxAp-7l1HdnCll4k5g
+accounts.google.com	FALSE	/	TRUE	1644454805	GAPS	1:e9BJLae6My4welj_LXEGEEL_XkTFk4bRI-nR5LKnmaF840DjQ_JuKkNclE0F0s8goj0r_Qr7v_auH1_Bf9BGFMk5TA1D5Q:ur0SAu1lKqr-N6Pj
+accounts.google.com	FALSE	/	TRUE	1624636697	LSID	o.myaccount.google.com|s.youtube:jQceXuqGY_85QNUpibBqwJnSJAXChz03L1z05rdzFfRrh2SNJW_y7PjsEntgPqI2mxVcsQ.
+myaccount.google.com	FALSE	/	TRUE	1624552924	OSID	jQceXiHj64tgg6mlwIbJReoMBHt4qeuImPJZo3QNR1a7eZkOiRwI_bMQPvgXQOMegPFmYQ.
